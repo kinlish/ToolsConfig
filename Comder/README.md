@@ -1,5 +1,8 @@
 # Comder 設定
 
+### OS:
+Windows
+
 ### App name:
 ConEmu-Maximus5
 
